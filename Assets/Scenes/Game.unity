@@ -5313,7 +5313,6 @@ GameObject:
   - component: {fileID: 2004549969}
   - component: {fileID: 2004549968}
   - component: {fileID: 2004549944}
-  - component: {fileID: 2004549934}
   - component: {fileID: 2004550020}
   - component: {fileID: 2004550029}
   - component: {fileID: 2004550028}
@@ -5548,11 +5547,14 @@ GameObject:
   - component: {fileID: 2004550249}
   - component: {fileID: 2004550248}
   - component: {fileID: 2004550246}
-  - component: {fileID: 2004550243}
   - component: {fileID: 2004550247}
   - component: {fileID: 2004550245}
   - component: {fileID: 2004549993}
   - component: {fileID: 2004550250}
+  - component: {fileID: 2004550251}
+  - component: {fileID: 2004550243}
+  - component: {fileID: 2004549934}
+  - component: {fileID: 2004550252}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -5669,12 +5671,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 2004549930}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentBlock: {fileID: 2004549941}
-  suppressBlockAutoSelect: 0
-  waitForFrames: 1
+  itemId: 767
+  indentLevel: 1
+  targetFlowchart: {fileID: 2004549931}
+  targetBlock: {fileID: 2004549941}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
 --- !u!114 &2004549935
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -5883,7 +5891,7 @@ MonoBehaviour:
   itemId: 14
   blockName: Prologue
   description: 
-  eventHandler: {fileID: 2004549934}
+  eventHandler: {fileID: 0}
   commandList:
   - {fileID: 2004550061}
   - {fileID: 2004549942}
@@ -16324,15 +16332,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 2004549930}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 121c2a4d38c149443adb81911f0fdd61, type: 3}
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 761
-  indentLevel: 0
-  getOrSet: 0
-  property: 0
-  gameObjectVar: {fileID: 0}
-  inOutVar: {fileID: 2004549993}
+  itemId: 766
+  indentLevel: 1
+  targetFlowchart: {fileID: 2004549931}
+  targetBlock: {fileID: 2004549941}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
 --- !u!114 &2004550244
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -16358,11 +16369,13 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 2004550249}
   commandList:
-  - {fileID: 2004550243}
-  - {fileID: 2004550248}
   - {fileID: 2004550247}
   - {fileID: 2004550246}
+  - {fileID: 2004550243}
   - {fileID: 2004550245}
+  - {fileID: 2004550251}
+  - {fileID: 2004549934}
+  - {fileID: 2004550248}
   suppressAllAutoSelections: 0
 --- !u!114 &2004550245
 MonoBehaviour:
@@ -16414,7 +16427,7 @@ MonoBehaviour:
   conditions:
   - compareOperator: 0
     anyVar:
-      variable: {fileID: 0}
+      variable: {fileID: 2004549993}
       data:
         animatorData:
           animatorRef: {fileID: 0}
@@ -16424,7 +16437,7 @@ MonoBehaviour:
           audioSourceVal: {fileID: 0}
         booleanData:
           booleanRef: {fileID: 0}
-          booleanVal: 0
+          booleanVal: 1
         collectionData:
           collectionRef: {fileID: 0}
           collectionVal: {fileID: 0}
@@ -16652,7 +16665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 759
-  indentLevel: 0
+  indentLevel: 1
   _languageCode:
     stringRef: {fileID: 0}
     stringVal: Standart
@@ -16687,6 +16700,37 @@ MonoBehaviour:
   scope: 2
   key: myLangInt
   value: 0
+--- !u!114 &2004550251
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004549930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc625e237d6048bf86f34835d8266d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 765
+  indentLevel: 1
+  _languageCode:
+    stringRef: {fileID: 0}
+    stringVal: Standart
+  languageCodeOLD: 
+--- !u!114 &2004550252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004549930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a412b8e988d784693ee6b67f5e9d48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _flowchart: {fileID: 2004549931}
 --- !u!1 &2026145286
 GameObject:
   m_ObjectHideFlags: 0
