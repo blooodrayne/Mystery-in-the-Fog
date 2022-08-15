@@ -1,0 +1,418 @@
+Key,Description,Standard,English
+SAY.Flowchart.16. ,,"В чаще леса, окутанная густой пеленой тумана, наша деревня уже не одно десятилетие процветает в мире и гармонии. Здесь около двухсот жителей, каждый друг друга знает.","In the misty forest, our village has lived in peace and harmony for many years. There are about two hundred villagers here, everyone knows each other. "
+SAY.Flowchart.17. ,,"Я прожил здесь всю жизнь – у нас вообще не бывает чужаков. Туман отрезал нас от того, что находится за его пределами, но раз в год одному счастливчику выпадает шанс пройти ритуал и отправиться в другой мир, за пределами тумана."," I've lived here all my life - we don't have strangers at all. The fog has cut us off from what is beyond it, but once a year one lucky person gets a chance to pass the ritual and go to another world, beyond the fog."
+SAY.Flowchart.18. ,,"Они навсегда уходят от нас, поглощенные светом новой жизни. Но если в туман заходит не избранный, то, в лучшем случае, возвращается обезумевшим, а в худшем… даже вспоминать не хочется. 
+\n","They leave us forever, absorbed in the light of new life. But for the one who is not chosen, madness or something much worse awaits in the fog."
+SAY.Flowchart.19. ,,"Мы почитаем туман, но стараемся не приближаться к границе. 
+\nСовсем недавно моего друга избрали. Пока проходил ритуал, он все хвастался, как окажется в лучшем месте, где открыты все возможности. 
+\n\n","We respect fog, but we try not to approach the border.
+Recently my friend was chosen. Throughout the ritual, he boasted about how he would be in the best place where anything is possible.
+"
+SAY.Flowchart.20. ,,"Там не существует проблем и тягот жизни. Хотел бы я отправиться с ним. Должно быть за туманом ждет новый, лучший мир.
+\n
+\n"," There are no problems and hardships in life. I wish I could go with him. There must be a new, better world behind the fog.
+"
+SAY.Flowchart.32.Дядька,,"У меня есть для тебя кое-что. Перед смертью брат просил передать, когда тебе стукнет восемнадцать."," I have something for you. Before his death, my brother asked me to give it back when you turned eighteen 
+"
+SAY.Flowchart.37. ,,Отец? Но почему только сейчас?, Father? Why only now? 
+\n,,,
+SAY.Flowchart.38.Дядька,," Потому что так было нужно, не задавай глупых вопросов. В этой деревне много того, о чем ты не знаешь. Того, что должно быть сделано тихо. Твой отец это понимал, жаль ты не такой же.
+"," Because it was necessary, do not ask stupid questions. There are many things in this village that you do not know about. Things to be done quietly. Your father understood this, it’s a pity that you are not the same 
+"
+SAY.Flowchart.42. ,,Что это значит?,What does this mean?
+SAY.Flowchart.40.Дядька,,"То, что теперь от тебя будет многое зависеть. Пойдешь не туда, и погрузишь город в хаос. Не ошибись.
+\n","The fact that now a lot of things will depend on you. If you go the wrong way, you will plunge the city into chaos. Make no mistake"
+SAY.Flowchart.39. ,,"Дядя ушел, не удосужившись закрыть за собой дверь.","Uncle left without bothering to close the door behind him.
+"
+SAY.Flowchart.45.Письмо,,"Дорогой сын.    
+\nЕсли ты читаешь это письмо, значит, сегодня тебе исполнилось восемнадцать, но я не смог принести поздравления лично.
+\nЖаль, что придется сообщить тебе об этом в письме, но наша деревня не так спокойна, как хотелось бы. Ошибки предков лежат на нас тяжелым грузом и заставляют платить высокую цену. Однако некоторым тайнам лучше никогда не показываться на свет. Учти это. 
+\nТуман нетерпелив и жаден. Чтобы тьма не поглотила всю деревню, необходимо жертвовать лучшими из нас в день весеннего равноденствия. Но спокойствие бесценно.
+\n","Dear son.
+If you are reading this letter, then today you turned eighteen, but I could not bring congratulations in person.
+It's a pity that I have to inform you about this in a letter, but our village is not as calm as we would like. The mistakes of our ancestors weigh heavily on us and make us pay a high price. However, some mysteries are best never shown. Consider this.
+The fog is impatient and greedy. To prevent darkness from devouring the entire village, it is necessary to sacrifice the best of us on the day of the spring equinox. But calmness is priceless.
+"
+SAY.Flowchart.46.Письмо,,"Если у тебя есть вопросы, то только они смогут дать ответы: 
+\nСтароста деревни
+\nУчительница
+\nДиректриса школы
+\nПусть их мнения различаются, но правда многогранна. 
+\n
+\nИ помни:
+\nУшедшие спасают оставшихся.
+\n\n","If you have questions, only they can give answers:
+Village keeper
+Teacher
+Headmistress of the school
+Their opinions may differ, but the truth is multifaceted.
+
+And remember:
+Those who left are saving those who remain. 
+
+"
+SAY.Flowchart.620. ,,"Не понимаю. Что все это значит? Ошибки, тайны, туман… Мне нужны ответы. Но к кому пойти в первую очередь?","I do not understand. What does all of this mean? Mistakes, secrets, fog... I need answers. But who should I visit first? 
+"
+MENU.Flowchart.56,,Староста деревни,Village keeper
+MENU.Flowchart.61,,Учительница,"The Teacher
+"
+MENU.Flowchart.60,,Директриса школы,"Headmistress of the school
+"
+SAY.Flowchart.440. ,,"Дверь оказалась не заперта, стоило слегка толкнуть, и она открылась. 
+\n","The door was unlocked. I pushed it lightly and it opened.
+"
+SAY.Flowchart.441. ,,"Дом Старосты самый богатый в деревне. Она годами собирала свои сокровища, раскладывая их по сундукам и подпольям. \n\n","The keeper's house is the richest in the village. She spent years collecting her treasures, placing them in chests and undergrounds."
+SAY.Flowchart.442. ,,"И по слухам, она же хранила атрибуты ритуала, способного дать человеку силы пройти через туман и увидеть новый мир. 
+\n","And according to rumors, she also kept the attributes of a ritual that could give a person the strength to go through the fog and see a new world.
+"
+SAY.Flowchart.443. ,,"Староста стояла посреди комнаты, словно кого-то ждала. Несмотря на солидный возраст, ее осанка всегда была ровной, властной. ","The keeper stood in the middle of the room as if she was waiting for someone. Despite old age, her posture has always been straight and domineering. "
+SAY.Flowchart.444. ,,"Морщинистая кожа за долгие годы приобрела зеленоватый оттенок. Потертая деревянная трость была с ней больше для солидности, чем для надобности.","The shabby wooden walking stick was more for solidity than for use. Wrinkled skin has turned greenish over the years. 
+"
+SAY.Flowchart.445. ,,"Я знал ее с самого детства, Староста иногда заходила, проверить, как я поживаю. Когда родители погибли, она помогала, чем могла.","I knew her from my very childhood. The keeper sometimes came in to check how I was doing. When my parents died, she helped as much as she could."
+SAY.Flowchart.446. ,,"Не верю, что она плохой человек.
+\n"," I don't believe she's a bad person.
+"
+SAY.Flowchart.448. ,,Здравствуйте. Могу я задать несколько вопросов?,Hello. May I ask a few questions?
+SAY.Flowchart.449.Старшина,,Ты получил письмо?, Did you receive the letter?
+\n,,,
+SAY.Flowchart.450. ,," Да, но многое не понял.","Yes, but I didn't understand a lot."
+SAY.Flowchart.451.Старшина,,"Задавай вопросы. Я не могу рассказать много, пока нет, но в память о твоем отце отвечу. Он был преданным, самоотверженным и честным человеком, многое отдал во благо деревни.","Ask questions. I can't tell you much, not yet, but I will answer in memory of your father. He was a devoted, selfless and honest person, he gave up a lot for the good of the village."
+SAY.Flowchart.452.Старшина,,Выбирай вопросы с умом.," Choose questions wisely.
+"
+SAY.Flowchart.70. ,,"На главной площади, я заметил, как Учительница выходила из здания ратуши. Даже шагом она передвигалась нечеловечески быстро, так что догнать ее оказалось нелегко.","At the main square, I noticed how the Teacher was leaving the building of the town hall. Even at a step, she moved inhumanly fast, so it was not easy to catch up with her. "
+SAY.Flowchart.74. ,," Услышав мой оклик, она обернулась и искренне улыбнулась, но впившиеся в меня мелкие зрачки заставили поежиться.","Hearing my call, she turned around and smiled sincerely, but her small pupils made me shiver.
+"
+SAY.Flowchart.75. ,,Здравствуйте. А почему вы не в школе?," Hello. Why aren't you at school?
+"
+SAY.Flowchart.77.Учитель,," Ой, я всегда перед обедом помогаю старосте либо молюсь о благополучии деревни. Ах, вот бы все следовали моему примеру.
+\n","Oh, I always help the Keeper before lunch or pray for the well-being of the village. It's a shame that not everyone is following my example."
+SAY.Flowchart.78. ,,"Вы верите, что молитвы защитят нас?
+\n",Do you believe that prayers will protect us?
+SAY.Flowchart.79.Учитель,,"Конечно! Ведь вера сохраняет нам жизнь, без нее настал бы хаос.
+\n","Of course! After all, faith keeps us alive, without it, there would be chaos here."
+SAY.Flowchart.80. ,,"А как же люди, которых забирают от родных?
+\n","But what about the people who are taken away from their relatives?
+"
+SAY.Flowchart.81.Учитель,,"Избранные уходят в другой мир, где они счастливы. Ты видел письма, что они присылают - у них новая жизнь, в которой нет места тяготам прошлого.
+\n","You saw the letters that they send - they have a new life, in which there is no place for the hardships of the past.
+"
+SAY.Flowchart.82. ,,"А как же люди, которых забирают от родных?
+\n",
+MENU.Flowchart.83,, Это похоже на слепой фанатизм.," Looks like blind fanaticism.
+"
+\n,,,
+MENU.Flowchart.84,,"Получается, мы отдаем наших близких на растерзание непонятно чему ради собственных жизней?\n","In other words, we give up our loved ones to be torn apart by something terrifying for the sake of our own lives?"
+SAY.Flowchart.68. ,,"Директриса стояла около школы, внимательно наблюдая за вышедшими на прогулку школьниками. ","The headmistress stood near the school, attentively observing the pupils who went out for a walk. "
+SAY.Flowchart.623. ,,"Высокая и тощая, как скелет, она сканировала детей взглядом, похожая на ворона, который всегда сидел на ее руке. 
+\nПо слухам, именно она находит избранных.
+\n","Tall and skinny as a skeleton, she scanned the children with a gaze like a crow that always sat on her arm.
+According to rumors, it is she who finds the chosen ones.
+"
+SAY.Flowchart.622. ,," Здравствуйте, простите, что отвлекаю, но хочу кое о чем спросить.
+\n"," Hello, I'm sorry to distract you, but I want to ask you something."
+SAY.Flowchart.625.Директор,," Говори, но кратко.
+\n","Speak, but quickly."
+SAY.Flowchart.626. ,,Мой друг совсем недавно прошел ритуал и покинул деревню. Почему выбрали именно его?," My friend just recently went through a ritual and left the village. Why did you choose him?
+"
+\n,,,
+SAY.Flowchart.627.Директор,,"Видимо, ему просто повезло. Все люди уникальны, именно поэтому никто не уникален - выбор лишь иллюзия."," Apparently, he was just lucky. All people are unique, which is why no one is unique - the choice is just an illusion."
+SAY.Flowchart.630.Директор,," Твоя семья знает про туман, так зачем спрашиваешь очевидное?
+\n","Your family knows about the fog, so why are you asking the obvious?
+"
+MENU.Flowchart.656,,"Я не знаю, кому верить, поэтому хочу разобраться.
+\n"," I don't know who to believe, so I want to figure it out.
+"
+MENU.Flowchart.657,,Никто не говорит ничего конкретного. Как можно понять хоть что-то?,Nobody says anything concrete. How can you understand anything?
+\n,,,
+SAY.Flowchart.109.Учитель,,"Ну-ну, когда ты станешь одним из Хранителей, то поймешь величие нашей миссии.","There-there, when you become one of the Guardians, you will understand the greatness of our mission.
+"
+SAY.Flowchart.110. ,,Не хочу иметь с этим ничего общего.," I don't want to have anything to do with it.
+"
+\n,,,
+SAY.Flowchart.111.Учитель,,"Не паясничай. Ты всегда был своенравным, но есть предел. Туманные заповеди велят нам жертвовать собственными предпочтениями во имя всеобщего блага, так и нужно поступать."," Do not play around. You have always been wayward, but there is a limit. Mist commandments tell us to sacrifice our desires for the common good, and this is what we should do."
+SAY.Flowchart.113.Учитель,, Поэтому прими свою судьбу  – это твой единственный выбор.," Either way, accepting your destiny is your only choice."
+\n,,,
+SAY.Flowchart.128. ,,"Учительница скрылась в здании школы, оставив меня одного. 
+\nЖуткая она. 
+\n","The Teacher hid in the school building, leaving me alone.
+Creepy.
+"
+SAY.Flowchart.139.Учитель,,"Главное не то, что они покинули нас, а то - что в итоге принесли всеобщее благо.
+\n"," The main idea is not that they left us, but that they have brought good to everyone.
+"
+SAY.Flowchart.140. ,,Не хочу иметь с этим ничего общего.," I don't want to have anything to do with it.
+"
+\n,,,
+SAY.Flowchart.141.Учитель,,"Не паясничай. Ты всегда был своенравным, но есть предел. Туманные заповеди велят нам жертвовать собственными предпочтениями во имя всеобщего блага, так и нужно поступать."," Do not play around. You have always been wayward, but there is a limit. Mist commandments tell us to sacrifice our desires for the common good, and this is what we should do."
+SAY.Flowchart.142.Учитель,, Поэтому прими свою судьбу  – это твой единственный выбор.," Either way, accepting your destiny is your only choice."
+\n,,,
+SAY.Flowchart.144. ,,"Учительница скрылась в здании школы, оставив меня одного. 
+\nЖуткая она. 
+\n","The Teacher hid in the school building, leaving me alone.
+Creepy.
+"
+SAY.Flowchart.149. ,,"Навертывая круги по деревне, я обдумывал то, что сказала Учительница. Когда проходил мимо детской площадки около самой кромки тумана, то заметил ребенка на качелях.","Wandering through the village, I thought of the Teacher's words. As I walked past the playground near the border of the fog, I noticed a child on a swing."
+SAY.Flowchart.150. ,," Он казался мертвенно-бледным и худощавым, с нелепым телом и пустыми, кукольными глазами. Не знаю почему меня привлекла эта картина, но по спине пробежал неприятный холодок, и я остановился.
+\n","He seemed deathly pale and thin, with an absurd body and empty, doll-like eyes. I don't know why this picture attracted me, but a chill ran down my spine, and I stopped."
+SAY.Flowchart.153.Странный пацан,,"Привет, ой, а это твой друг пошел играть с туманом?
+\n"," Hi. Was that your friend leaving to play with the fog?
+"
+MENU.Flowchart.206,,Что?\n,"What?
+"
+MENU.Flowchart.207,,Как ты узнал?\n," How do you know?
+"
+SAY.Flowchart.167. ,,Что?,"What?
+"
+\n,,,
+SAY.Flowchart.168.Странный пацан,,"Ты глупый. Но это не я так думаю, это туман сказал. Ты ему не нравишься. 
+\n","You are dumb. But that's not what I think, it's the fog. He doesn't like you."
+SAY.Flowchart.198. ,,"Я сделал шаг ближе, оказавшись у самой кромки тумана. На секунду показалось, что около самого уха прошелестел приятный шепот. ","I took a step closer, being a meter away from the fog. For a second, a pleasant whisper seemed to rustle near my ear."
+SAY.Flowchart.199. ,,"Оглядевшись, я никого не увидел, но когда голос раздался снова, понял, что он идет из-за ограды. Мальчик был прав, кажется, теперь я тоже его слышу."," I looked around, but didn't see anyone. Then the voice whispered again and I realized that it was coming from behind the fence. The boy was right, now I can hear it too."
+SAY.Flowchart.266. ,,"Мягкий голос, и такой успокаивающий… Ты можешь забрать все… ","A soft voice, and so soothing ... You can take everything ...
+"
+SAY.Flowchart.269. ,,"Тело двигалось само. Шаг, еще один – вот я уже за оградой. Еще метр вглубь, и густая пелена сомкнулась за спиной, нежно окутывая меня мягкой дымкой.","The body moved by itself. Step, one more - and now I am beyond the fence. Another meter deep, and a thick veil closed behind my back, gently wrapping me in a soft haze."
+SAY.Flowchart.270. ,,"Кожа по всему телу начала немного щипать, передвигать ноги становилось все труднее. По щекам потекли слезы. ","The skin all over my body started to prick a little, it became more and more difficult to move my legs. Tears streamed down my cheeks."
+SAY.Flowchart.271. ,,"Кажется, это счастье?.."," Is this happiness?..
+"
+SAY.Flowchart.268. ,,Вы навсегда растворились в тумане.,"You disappeared in the fog.
+"
+SAY.Flowchart.209. ,,Как ты узнал?,"How do you know?
+"
+\n,,,
+SAY.Flowchart.210.Странный пацан,,"Взрослые радовались. Не знаю почему, как по мне, ничего интересного. Туман и меня звал поиграть, но я отказался.","The adults were happy. I don’t know why, as for me, nothing interesting. The fog called me to play too, but I refused.
+"
+SAY.Flowchart.276. ,,"Ладно, куда пойти дальше?",Where to go next?
+SAY.Flowchart.245. ,,Ты его слышишь? Что он говорит?,"Can you hear him? What does he say?
+"
+SAY.Flowchart.246.Странный пацан,,"Чаще всего, что ему скучно. Или что он голодный.",Most often that he is bored. Or that he is hungry.
+SAY.Flowchart.247.Странный пацан,,"Иногда требует новые игрушки – я пробовал делиться своими, честно, но он выбрасывал их обратно поломанными и кричал на меня, так что больше я не делюсь.
+\n","Sometimes requires new toys. I tried to share mine, honestly, but he threw them back broken and yelled at me, so I don't share anymore.
+"
+SAY.Flowchart.248. ,,"Лучше иди поиграй с другими детьми, туман опасен.
+\n"," Better go play with other kids, the fog is dangerous.
+"
+SAY.Flowchart.249.Странный пацан,,"Другие меня обижают, говорят, что я странный. А туман хороший, хоть и вредный, но он точно не хуже других.","Others offend me, they say that I am weird. And the fog is good, although naughty, but it's not worse than others"
+SAY.Flowchart.250.Странный пацан,,"Правда, он иногда пытается дотянуться до меня, подползает чуть ближе и щекочет ноги. "," And sometimes he tries to reach me, crawls a little closer and tickles my feet.
+"
+SAY.Flowchart.251. ,,А тебе не страшно? Почему ты не убегаешь?,"Aren't you scared? Why don't you run away?
+"
+\n,,,
+SAY.Flowchart.252.Странный пацан,,Так бежать все равно некуда.,"Because there is nowhere to run.
+"
+SAY.Flowchart.255. ,,"Ребенок ушел с площадки, оставив меня стоять напротив мягкой стены тумана. Я вглядывался в него, пока глаза не начали болеть от напряжения, но не смог разглядеть и пары метров дальше ограды.","The child left the playground, leaving me standing by the soft wall of fog. I looked at it until my eyes began to hurt, but I couldn't see even a couple of meters further than the fence."
+SAY.Flowchart.256. ,, Хотелось протянуть руку и дотронуться до переливающейся дымки. , Suddenly I wanted to touch the mysterious mist.
+\n,,,
+MENU.Flowchart.274,,Подойти ближе.,Come closer.
+MENU.Flowchart.275,,Отойти от тумана.,Move away from the fog
+SAY.Flowchart.490. ,,"Почему некоторым дают возможность навсегда уйти, стать избранным, а другим нет?","Why are some given the opportunity to leave forever, to become the chosen one, while others are not?
+"
+SAY.Flowchart.491.Старшина,,"Не думай, что одни везучие, а другие нет. Это как раз спорный вопрос, кому из них повезло больше.","Don't think that some are lucky and others are not. This is a matter of opinion, which of them was more fortunate."
+SAY.Flowchart.492.Старшина,," Избранные – необходимая ложь, без которой люди могут обезуметь от страха и совершить необдуманные поступки. А где рождается паника, там будет кровь.
+\n","The chosen ones are a necessary lie. Without it, people can become insane with fear and act rashly. And where's panic, there will be blood.
+"
+SAY.Flowchart.322. ,,"Что такое туман, почему он убивает не избранных? 
+\n",What is fog? Why does he kill non-chosen ones?
+SAY.Flowchart.323.Старшина,,Туман – это благословение и проклятье. Он защищает нас от внешнего мира и сохраняет порядок в деревне.,Fog is a blessing and a curse. He protects us from the outside world and keeps order in the village.
+SAY.Flowchart.485.Старшина,,"Но если туман не сдерживать, то он направит силу против деревни. Тогда в живых не останется никого.
+\n","But if the fog is not contained, it will rise against the village. Then there will be no survivors.
+"
+SAY.Flowchart.493. ,,Как становятся избранным?,"How do you become the chosen one?
+"
+\n,,,
+SAY.Flowchart.494.Старшина,,"Для обычных жителей ритуал хранится в строжайшем секрете, но тебе скажу, что чем больше величия и деталей придавать своей лжи, тем более вероятно, что в нее поверят.
+\n","The ritual is kept in the strictest confidence from ordinary villagers. But I can tell you, that the more grandeur and detail you add to your lie, the more likely they will believe in it.
+"
+SAY.Flowchart.371. ,, Можете еще ответить… ," May you also answer...
+"
+\n,,,
+SAY.Flowchart.372.Старшина,,"Достаточно. Ты и так узнал больше, чем следует.",Enough. You already learned more than you should.
+SAY.Flowchart.486.Старшина,,"Возможно, когда мы убедимся в твоей вере, ты сможешь занять место отца, но пока что еще слишком молод и многого не можешь понять.
+\n","Perhaps when we are convinced of your faith, you can take your father's place. But for now, you are still too young and cannot understand much.
+"
+SAY.Flowchart.373. ,,"Я не знаю, кем был мой отец.
+\n"," I don't know who my father was.
+"
+SAY.Flowchart.374.Старшина,," Он был одним из нас – из тех, кто оберегает деревню и не позволяет тьме или хаосу окончательно поглотить ее.
+\n","He was one of us - one of those who protect the village and do not allow darkness or chaos to destroy it.
+"
+SAY.Flowchart.487. ,, Вы говорите загадками. Почему нельзя рассказать все людям?," You speak in riddles. Why can't you tell people everything?
+"
+\n,,,
+SAY.Flowchart.488.Старшина,,"Единственное, что тебе нужно понимать – у нас нет другого выбора, мы поступаем так, как должны.
+\n","The only thing you need to understand is that we have no other choice, we do what we should.
+"
+SAY.Flowchart.489. ,,Ясно. Спасибо., Fine. Thank you.
+\n,,,
+MENU.Flowchart.459,,"Что такое туман, почему он убивает не избранных?","What is fog? Why does he kill non-chosen ones?
+"
+MENU.Flowchart.460,,"Почему некоторым дают возможность навсегда уйти, стать избранным, а другим нет?","Why are some given the opportunity to leave forever, to become the chosen one, while others are not? "
+MENU.Flowchart.461,,Как становятся избранным?,"How do you become the chosen one?
+"
+SAY.Flowchart.499. ,,"Выйдя из дома Старосты, я побрел, куда глаза глядят. Погрузившись в свои мысли, не замечал ничего вокруг. 
+\n","I left the keeper's house and walked where my feet took me. Immersed in my thoughts, I did not notice anything around."
+SAY.Flowchart.500. ,,Но вдруг кто-то грубо схватил меня за руку и развернул.,But suddenly someone roughly grabbed my hand and turned me around.
+SAY.Flowchart.501. ,,"С трудом удержав равновесие, я возмущенно уставился на незнакомца, но когда разглядел его, рефлекторно сделал шаг назад.
+\n"," I barely kept my balance. I glared at the stranger, but when I saw him, I took a reflexive step back.
+"
+SAY.Flowchart.502. ,,Передо мной стоял согнувшийся практически до земли старик.,A hunchbacked old man stood next to me.
+SAY.Flowchart.503. ,," Безумно вращая выпученными глазами, он что-то невнятно бормотал. А когда я наклонился чуть ближе, чтобы разобрать, то старик неожиданно закричал.
+\n","He madly rolled his bulging eyes and muttered something. When I leaned a little closer to understand what he was saying, the old man suddenly screamed.
+"
+SAY.Flowchart.508.Безумный дед,,"Как ты можешь спокойно спать по ночам, если знаешь, что они творят?!
+\n","How can you sleep peacefully at night if you know what they are doing?!
+"
+MENU.Flowchart.516,,Вы о чем?," What are you talking about?
+"
+\n,,,
+MENU.Flowchart.517,,"Они делают то, что нужно."," They do what they have to.
+"
+SAY.Flowchart.520. ,,Вы о чем?,"What are you talking about?
+"
+\n,,,
+SAY.Flowchart.518.Безумный дед,," Остолоп! Не притворяйся, что не понимаешь! Ты ведь один из них, я знаю. Вы больше не сможете обманывать нас! 
+\n","Buffoon! Don't pretend you don't understand! You are one of them, I know. You can't lie to us anymore!
+"
+SAY.Flowchart.521. ,," Они делают то, что нужно.
+\n"," They do what they have to.
+"
+SAY.Flowchart.519.Безумный дед,,"Наши близкие уходят на убой, а люди, которые поработили их умы, наслаждаются своей властью! Управляют из теней, словно кукольники.
+\n","Our loved ones go to the slaughter, and the people who enslaved their minds enjoy their power. They control us from the shadows like puppeteers.
+"
+SAY.Flowchart.524. ,,"Туман реален, в отличие от ваших бредней.
+\n","The fog is real, unlike your ravings.
+"
+SAY.Flowchart.525.Безумный дед,,"Говорят про туман и про общее благополучие, а на самом деле лишь запугали всех и обратили в свою секту!
+\n"," They talk about fog and prosperity, but in fact, they only filled everyone with fear and turned them into their sect!
+"
+SAY.Flowchart.526. ,, Да с чего вы так решили?,Why do you think so?
+\n,,,
+SAY.Flowchart.527.Безумный дед,," Они погубили мою внучку! Одурманили сладкими речами и увели в туман. И все, до чего додумались, чтобы одурачить меня - бессмысленное поддельное письмо!
+\n","They killed my granddaughter! Poisoned her with sweet words and took her away into the fog. And all they thought of to fool me is a senseless fake letter!
+"
+SAY.Flowchart.528. ,,Это безумие.,"This is crazy.
+"
+\n,,,
+SAY.Flowchart.529.Безумный дед,,"Нет, я точно знаю! Знаю! Они убили ее! Затуманили голову! Только игрушка от внучки и осталась!
+\n","No, I know for sure! I know! They killed her! Clouded her head! Only a toy remained from the granddaughter!"
+SAY.Flowchart.530. ,," Знаете, я лучше пойду.
+\n","You know, I'd better go.
+"
+SAY.Flowchart.531.Безумный дед,,Не дай им забрать и других.,"Don't let them take others as well.
+"
+\n,,,
+SAY.Flowchart.536. ,,"Старик исчез раньше, чем я успел сделать шаг назад.",The old man disappeared before I could take a step back. 
+SAY.Flowchart.537. ,,"Растерянно оглядываясь по сторонам, я пытался понять: он действительно был здесь или мне лишь привиделось от переизбытка впечатлений? ", I tried to understand: was he really here or was I just dreaming because of too many impressions?
+SAY.Flowchart.538. ,,"Но когда уже развернулся, чтобы уйти подальше, то заметил на земле игрушечного кролика, которого старик держал в руках.
+\n","But when I turned around to leave, I noticed a toy rabbit on the ground, which the old man was holding in his hands."
+MENU.Flowchart.540,,Поднять кролика," Take the rabbit
+"
+\n,,,
+MENU.Flowchart.541,,Оставить на земле,"Leave on the ground
+"
+\n,,,
+SAY.Flowchart.554. ,,"Оставив странную игрушку на земле, я отошел от нее подальше.",I left the strange toy on the ground and walked away from it.
+SAY.Flowchart.555. ,," Не знаю почему, но от одного взгляда на нее у меня мурашки по спине. Безумный старик. Но вдруг в его словах есть смысл?","I don't know why, but just looking at it gives me goosebumps. Crazy old man. But what if his words make sense? "
+SAY.Flowchart.556. ,,"Они со старостой говорят примерно об одном и том же, но отношение к происходящему, мягко говоря, разное.","He and the keeper are talking about the same thing, but each has a different attitude."
+SAY.Flowchart.597. ,,"Тогда как можно решить, кто прав, а кто ошибается? Может, они оба не правы?
+\n",Then how can you decide who is right and who is wrong? Maybe they are both wrong?
+SAY.Flowchart.596. ,,"Одна просит сохранить тайну, а другой рассказать все людям. Отец завещал хранить секрет. Я мало что о нем помню, но не сомневаюсь, он был хорошим человеком. Не хочу его подвести.
+\n","One asks to keep a secret, and the other to tell people everything. My father bequeathed to keep a secret. I don't remember much about him, but I have no doubt he was a good man. I don't want to let him down."
+SAY.Flowchart.598. ,,"А если обо всем рассказать, то люди смогут сами выбирать свою судьбу. Но стоит ли оно того?
+\n","And if you tell about everything, then people will be able to choose for themselves, but will it be worth it?"
+SAY.Flowchart.600. ,,Куда пойти дальше?,Where to go next?
+SAY.Flowchart.572. ,,"Подняв детскую игрушку с земли, с любопытством осмотрел ее. Кажется, я помню девочку, о которой говорил старик.",I took a children's toy from the ground and looked at it with curiosity. I think I remember the girl the old man was talking about. 
+SAY.Flowchart.602. ,,"Она всегда носила с собой этого кролика. Думаю, девчонке было где-то пятнадцать, когда ее избрали.",She always carried this rabbit with her. I think the girl was about fifteen when she was chosen.
+SAY.Flowchart.573. ,,"Точно, я помню, как какой-то старик плакал во время торжественного шествия к туману, умолял ее остаться. Так там был ее дедушка, этот старик.","Right, I remember how some old man cried during a grand march to the fog, begging her to stay. So it was her grandfather."
+SAY.Flowchart.574. ,,"Помню, как девчушка отдала ему этого кролика на прощание и шагнула в туман.
+\n", I remember how the little girl gave him this rabbit as goodbye and stepped into the fog.
+MENU.Flowchart.576,,Всмотреться в игрушку,Peer into the toy
+\n,,,
+MENU.Flowchart.577,,Положить игрушку,Put the toy down
+SAY.Flowchart.590. ,,"Чем дольше я разглядывал жуткую игрушку, тем отчетливее чувствовал отчаяние, ненависть и безумие старика, не выпускавшего ее из рук."," The longer I looked at the creepy toy, the more I felt the despair, hatred and madness of the old man who did not let go of the toy."
+SAY.Flowchart.591. ,,"В голове возникали образы, как тот усаживал плюшевого кролика за стол, кормил, ухаживал, словно за живым ребенком. Как проклинал жителей деревни, как рыдал над детской одежкой, как до хрипоты кричал в туман имя внучки.
+\n","In my head, images arose of how he seated a toy rabbit at the table, fed, looked after it as if it was a living child. How he cursed the villagers, how he sobbed over children's clothes, how desperately he screamed into the fog the name of his granddaughter.
+"
+SAY.Flowchart.604. ,,"Поток чужих воспоминаний и эмоций захлестнул меня. Я пытался выкинуть их из мыслей, но они напирали с еще большей силой.","A stream of other people's memories and emotions swept over me. I tried to throw them out of my thoughts, but they pressed on with even greater force."
+SAY.Flowchart.603. ,," Упав на колени и обхватив голову руками, я закричал, физически не в силах терпеть боль чужого безумия. "," I fell to my knees, put my head in hands and screamed, unable to bear the pain of someone else's madness."
+SAY.Flowchart.592. ,,"Пытаясь избавиться от видений, начал биться головой о землю, но ничего не помогало."," Trying to get rid of the visions, I started banging my head on the ground, but nothing helped."
+SAY.Flowchart.605. ,,"Неожиданно свет в глазах померк, а вместе с тем ушла боль, оставив лишь пустоту.
+\n"," Suddenly the light in my eyes faded, and at the same time, the pain went away, leaving only emptiness.
+"
+SAY.Flowchart.607. ,,"Неожиданно свет в глазах померк, а вместе с тем ушла боль, оставив лишь пустоту.
+\n"," Suddenly the light in my eyes faded, and at the same time, the pain went away, leaving only emptiness.
+"
+SAY.Flowchart.698. ,,Никто не говорит ничего конкретного. Как можно понять хоть что-то?,Nobody says anything concrete. How can you understand anything?
+\n,,,
+SAY.Flowchart.699.Директор,," Докажи, что тебе можно верить, и узнаешь больше. Есть тайны, которые опасны, и которые не будут раскрывать каждому встречному ради его же блага. ",Prove that you can be trusted and you will find out more. Some secrets are dangerous and will not be revealed to everyone for their own good. 
+SAY.Flowchart.700.Директор,,"Мы выбрали свою цель, мы делаем то, что считаем нужным, и пока что все складывается прекрасно.","We have chosen our goal, we do what we think is necessary, and so far everything is going well."
+SAY.Flowchart.701.Директор,,"Деревня живет в мире и гармонии, не это ли правильно?
+\n"," The village lives in peace and harmony, isn't that right?
+"
+SAY.Flowchart.658. ,," Я не знаю, кому верить, поэтому хочу разобраться."," - I don't know who to believe, so I want to figure it out."
+SAY.Flowchart.659.Директор,,"Тебе уже написали, кому верить. Нужны еще какие-то причины?",You have already been written who to believe. Need more reasons?
+SAY.Flowchart.660.Директор,,"Такими темпами ты никогда не займешь место отца, тебе следует меньше задумываться об относительности добра и зла и выбрать, наконец, сторону. ",You will never take your father's place at this rate. You should think less about the relativity of good and evil and finally choose a side. 
+SAY.Flowchart.661.Директор,,"Что не выбери, все равно запачкаешь руки. Такова уж жизнь.
+\n","Whatever you choose, you still get your hands dirty. That's life.
+"
+SAY.Flowchart.684. ,,"Как мне доказать, что я один из вас?
+\n",How can I prove that I am one of you?
+SAY.Flowchart.685.Директор,,"Время покажет. Если ты совершишь ошибку, то мы сразу это поймем. А если поведешь себя достойно, то займешь место Хранителя. Все зависит от выбора.
+\n","Time will tell. If you make a mistake, we will immediately understand it. And if you behave yourself with dignity, you will take the place of the Guardian. It all depends on the choice.
+"
+SAY.Flowchart.688. ,,"А если я чувствую, что это неправильно?
+\n","What if I feel like it's wrong?
+"
+SAY.Flowchart.689.Директор,,"Ты еще ребенок и не понимаешь элементарного. Следуй за фактами, а не за эмоциями или слухами, тогда все станет ясным.
+\n"," You are still a child and do not understand elementary things. Follow the facts, not emotions or rumors, then everything will become clear."
+SAY.Flowchart.690. ,,Вы так и делаете?,Is that what you do?
+\n,,,
+SAY.Flowchart.691.Директор,,"Практичный подход самый выгодный. Если следовать логике, то наша миссия оправдывает средства.
+\n","The practical approach is the most beneficial. Logically, our purpose justifies the means"
+SAY.Flowchart.703. ,,"В школе прозвенел звонок, и ученики вернулись на занятия, сопровождаемые Директрисой. ","The bell rang at the school, and the students returned to class, accompanied by the Headmistress."
+SAY.Flowchart.705. ,," Не знаю, права она или нет, но ведь мой друг не мог погибнуть, да? Он должен быть в лучшем мире и счастлив."," I don’t know if she’s right or not, but my friend couldn’t die, right? He should be in a better world and happy. "
+SAY.Flowchart.707. ,,А что насчет остальных? Ведь все родственники избранных рады за них.,"What about the rest? After all, the relatives of the chosen ones are happy for them."
+SAY.Flowchart.706. ,," И если ушедшие все равно больше не вернутся, то мы должны хотя бы думать, что они счастливы, верно?
+\n","And if those who left do not come back anyway, then we should at least think that they are happy, right? 
+
+"
+SAY.Flowchart.724. ,,"Я поговорил со всеми людьми из письма, но что мне делать дальше?","I spoke to all the people in the letter, but what should I do next?"
+SAY.Flowchart.739. ,,"Должен ли я помогать Хранителям? Или нужно рассказать людям правду о том, что происходит? ",Should I help the Guardians? Or do I need to tell people the truth about what's going on?
+SAY.Flowchart.738. ,,"Будет ли ошибкой что-то одно или, что не выбери, все равно промахов не избежать?
+\n","Will one thing be a mistake, or can you choose what you think is right, and still mistakes cannot be avoided?"
+MENU.Flowchart.740,,Рассказать людям правду,Tell people the truth
+\n,,,
+MENU.Flowchart.742,,Сохранить все в тайне,Keep it all a secret
+SAY.Flowchart.743. ,,"Я рассказал людям правду об их близких, о тумане и о необходимых жертвах. Последовавшее недоумение и растерянность вскоре сменились на отчаяние и панику. Люди метались от границы к границе, оплакивали погибших, кто-то, несмотря на опасность, покидал деревню, растворяясь в тумане. Обезумев, часть жителей собралась в толпу и жаждала крови тех, кто скрывал тайну. 
+\nЕдинственным, кого они пощадили, был я. Наблюдая, как они устроили казни на кострах, слушая крики привязанных к столбам людей, я не чувствовал ничего, кроме опустошения. Самый громкий крик Директрисы заглушил безумный смех Старика, выплясывающего около костров. Одна лишь Староста не издала ни звука. Она только смотрела на меня, пока пламя не поглотило ее тело.
+\nЧерез некоторое время люди, все же, приняли свое горе и успокоились. Жизнь начала возвращаться в прежнее русло, словно ничего не произошло. 
+\nТак прошел год. 
+\nСпокойствие исчезло в ту секунду, как по округе пробежал странный мальчик, крича, что туман, наконец, свободен и идет играть. Люди высыпали на улицы и замерли, в ужасе наблюдая за плотными клубами тумана, ползущими по земле со всех сторон. 
+\nПаника снова захлестнула деревню. Подстегиваемые отчаянием, люди решили испытать судьбу и вместе зайти в туман в поиске выхода. Кто-то погиб практически сразу, как пелена окутала его, но остальные, скрепя сердце, шли дальше. Долгое время мы блуждали, не видя ничего дальше пары метров. Многие навсегда остались в проклятых топях. Не знаю, сколько минуло дней, но, когда люди почти отчаялись, мы увидели яркий свет, пробившийся через туман. Свет нового мира.
+\nБыло ли это решение ошибкой или нет, нельзя сказать наверняка, но это было моим выбором.
+\n","I told people the truth about their loved ones, about the fog, about the necessary sacrifices. The ensuing bewilderment and confusion soon gave way to despair and panic. People ran from border to border, mourned the dead, someone, despite the danger, left the village and disappeared in the fog. Completely distraught, some of the villagers gathered in a crowd and thirsted for the blood of those who were hiding the secret.
+The only one they spared was me. As I watched them arrange the executions at the stake, I listened to the cries of the people tied to the piles and felt nothing but emptiness. The loudest cry of the Headmistress drowned in the mad laughter of the Old man dancing around the fires. Only the Keeper made no sound. She only looked at me until the flames consumed her body.
+After a while, people accepted their grief and calmed down. 
+Life began to return to its familiar ways as if nothing had happened.
+So a year passed.
+The calm vanished in the second, when a strange boy ran around the neighborhood, shouting that the fog was finally free and coming to play. People came out to the streets and froze, in horror watching the dense clouds of fog crawling along the ground from all directions.
+Panic swept through the village again. Motivated by despair, they decided to try luck and went into the fog in search of a way out together. Someone died almost immediately, as the fog enveloped him, but the rest moved on. For a long time, we wandered, not seeing anything further than a couple of meters. Many remained forever in the cursed swamps. I don't know how many days passed, but when people were almost desperate, we saw a bright light breaking through the fog. Light of the new world.
+Whether my decision was a mistake or not, no one can say for sure, but it was my choice.
+"
+SAY.Flowchart.744. ,,"Ошибочное и недолговечное счастье все же лучше, чем знание о неминуемой смерти. 
+\nРешив, что спокойствие и блаженство неведения важнее горькой правды, я сохранил тайну, доверенную отцом. Вскоре остальные Хранители прониклись ко мне доверием и раскрыли подробности давнего проклятья, с каждым годом все плотнее сжимающегося вокруг деревни. Проклятья, от которого лишь мы могли защитить наш дом. 
+\nОни рассказали мне, что туман разумен и жаждет крови, и обманывая людей, мы оберегаем их от безумия и паники. Хранители пытались найти выход, но ничего не вышло, поэтому оставалось только сдерживать туман, чтобы деревня могла и дальше существовать в блаженном неведении.
+\nПродолжая жертвовать одним человеком в год, мы сохраняли жизни десятков. Было ли это ошибкой или нет, нельзя сказать наверняка, но это было моим выбором.
+\n","False and short-lived happiness is still better than the knowledge of imminent death.
+I decided that the calmness and bliss of ignorance are more important than the bitter truth, I kept the secret that my father entrusted to me. Soon, the rest of the Guardians believed me and revealed the details of a long-standing curse, which is shrinking more and more densely around the village every year. A curse that only we could protect our home from.
+They told me that the fog has a mind and it's thirsts for blood. That by lying to people, we protect them from madness and panic. The Guardians tried to find a way out, but nothing came of it. All that remained was to contain the fog so that the village could continue to exist in blissful ignorance.
+By continuing to sacrifice one person a year, we saved the lives of dozens. Whether it was a mistake or not, no one can say for sure, but it was my choice.
+"
+CHARACTER.Старшина,,Старшина,The keeper
+CHARACTER. ,, ,
+CHARACTER.Письмо,,Письмо,Letter
+CHARACTER.Безумный дед,,Безумный дед,Mad old man
+CHARACTER.Директор,,Директор,Headmistress
+CHARACTER.Плюшевый заяц,,Плюшевый заяц,Plush bunny
+CHARACTER.Учитель,,Учитель,The teacher
+CHARACTER.Странный пацан,,Странный пацан,Child
+CHARACTER.Дядька,,Дядька,Uncle left without bothering to close the door behind him. 

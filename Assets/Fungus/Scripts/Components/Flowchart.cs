@@ -16,6 +16,8 @@ namespace Fungus
     /// Flowchart objects may be edited visually using the Flowchart editor window.
     /// </summary>
     [ExecuteInEditMode]
+
+
     public class Flowchart : MonoBehaviour, ISubstitutionHandler
     {
         public const string SubstituteVariableRegexString = "{\\$.*?}";
