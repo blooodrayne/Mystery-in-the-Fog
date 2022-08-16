@@ -6,16 +6,16 @@ public class ChangeLanguage : MonoBehaviour
 {
 
     public static int myLangInt;
-    public string RuStr = "RuStr";
-    public string EngStr = "EngStr";
+    public string LangStr = "Lang";
+
     public void Ru()
     {
-        PlayerPrefs.SetString(RuStr, "RuStr");
+        PlayerPrefs.SetString(LangStr, "RuStr");
     }
 
     public void Eng()
     {
-        PlayerPrefs.SetString(EngStr, "EngStr");
+        PlayerPrefs.SetString(LangStr, "EngStr");
     }
 
 }

@@ -6,25 +6,39 @@ using UnityEngine;
 public class SetLanguage : MonoBehaviour
 {
     [SerializeField] private Flowchart _flowchart;
-    private const string RuStr = "RuStr";
-    private const string EngStr = "EngStr";
+   private const string StrForLook = "Lang";
+   // private string LangStrforLook = PlayerPrefs.GetString(StrForLook);
+
+    // private const string EngStr = "EngStr";
     public void Start()
     {
         GetLanguageFromPrefs();
     }
     private void GetLanguageFromPrefs()
     {
+
         foreach (var flowchartVariable in _flowchart.Variables.Where(flowchartVariable => flowchartVariable.Key.Contains("Language")))
         {
-            switch (PlayerPrefs.GetString(RuStr))
+            // зык выбирается исходя из ключа
+             switch (PlayerPrefs.GetString(StrForLook))
             {
-                case RuStr:
-                    flowchartVariable.Apply(SetOperator.Assign, false);
-                    break;
-                case EngStr:
+
+                case "EngStr":
                     flowchartVariable.Apply(SetOperator.Assign, true);
                     break;
+
+                case "RuStr":
+                    flowchartVariable.Apply(SetOperator.Assign, false);
+                    break;
+               
             }
+            
+
+
+            /*if (PlayerPrefs.HasKey(RuStr))
+                flowchartVariable.Apply(SetOperator.Assign, false);
+            else if (PlayerPrefs.HasKey(EngStr))
+                flowchartVariable.Apply(SetOperator.Assign, true);*/
         }
     }
 }
